@@ -1,0 +1,73 @@
+.white{
+    color: white;
+}
+.banner {
+    transition: width 5s, height 5s, transform 1s ease-in-out;
+  }
+  
+  .banner:hover {
+    transition: width 5s, height 5s, transform 1s ease-in-out;
+       transform: scale(.7) rotate(-60deg);
+  }
+
+  #width{
+      width: 310px;
+  
+  }
+
+  .title2{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+  }
+  .title22{
+    
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 30px;
+  line-height: 40px;
+  }
+
+.title{
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 80px;
+}
+.titleMobile{   
+    width: 250px;
+    height: 138px;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 36px;
+    line-height: 50px;
+  
+}
+
+.button {
+    background-color: #E02C6D; 
+    border: none;
+    color: white;
+  
+    text-align: center;
+    text-decoration: none;   
+    font-size: 16px;
+    width: 124px;
+    height: 35px;
+  }
+
+  .fa-bars{
+      outline-color: none;
+      color: white;
+  }
+  .btn:focus {
+    outline: none;
+    box-shadow: none;
+      }
+
+
+
+ 
+
